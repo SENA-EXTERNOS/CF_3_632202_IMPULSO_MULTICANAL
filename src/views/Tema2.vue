@@ -19,6 +19,12 @@
         .titulo-sexto.color-acento-contenido.mb-3
           h5 Tabla 1. 
           span <em>Ejemplo de construcción de codificación de productos alimenticios para la comercialización</em> 
+   
+    .row.justify-content-around.align-items-center.mt-3
+        .col-lg-10
+          figure
+            img(src='@/assets/curso/temas/tema2/img_table_tema2.png', alt='Texto que describa la imagen')  
+            figcaption.mt-3 <p>Fuente. Elaboración propia del Experto Temático</p>
 
 
     separador

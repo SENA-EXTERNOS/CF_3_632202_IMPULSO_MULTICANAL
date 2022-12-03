@@ -40,22 +40,22 @@
           img(src='@/assets/curso/temas/tema5/img_2_tema5.png', alt='Texto que describa la imagen') 
 
     .row.justify-content-around.align-items-center
-      .col-lg-2
+      .col-lg-3
           img(src='@/assets/curso/temas/tema5/img_3_tema5.png', alt='Texto que describa la imagen').imagen-decorativa-1
 
-      .col-lg-2
+      .col-lg-3
           img(src='@/assets/curso/temas/tema5/img_4_tema5.png', alt='Texto que describa la imagen').imagen-decorativa-2
 
-      .col-lg-2
+      .col-lg-3
           img(src='@/assets/curso/temas/tema5/img_5_tema5.png', alt='Texto que describa la imagen').imagen-decorativa-3
 
-      .col-lg-2
+      .col-lg-3
           img(src='@/assets/curso/temas/tema5/img_6_tema5.png', alt='Texto que describa la imagen').imagen-decorativa-4
 
-      .col-lg-2
+      .col-lg-3
           img(src='@/assets/curso/temas/tema5/img_7_tema5.png', alt='Texto que describa la imagen').imagen-decorativa-5
 
-      .col-lg-2
+      .col-lg-3
           img(src='@/assets/curso/temas/tema5/img_8_tema5.png', alt='Texto que describa la imagen').imagen-decorativa-6                   
     
     .row.justify-content-around.align-items-center.mt-3

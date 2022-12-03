@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="610" height="270.299" viewBox="0 0 610 270.299">
+  <g id="Grupo_166223" data-name="Grupo 166223" transform="translate(-4735.5 9907.702)">
+    <line id="Línea_142" data-name="Línea 142" x2="510" transform="translate(4766.5 -9772.275)" fill="none" stroke="#ff0d04" stroke-width="1" stroke-dasharray="5"/>
+    <line id="Línea_143" data-name="Línea 143" x2="510" transform="translate(4766.5 -9823.563)" fill="none" stroke="#26c7db" stroke-width="1"/>
+    <line id="Línea_144" data-name="Línea 144" x2="510" transform="translate(4766.5 -9699.918)" fill="none" stroke="#26c7db" stroke-width="1"/>
+    <g id="Grupo_163043" data-name="Grupo 163043" transform="translate(4760 -9881.702)">
+      <g id="Grupo_163039" data-name="Grupo 163039" transform="translate(0)">
+        <path id="Trazado_230785" data-name="Trazado 230785" d="M560.5,1274.074V1041.5" transform="translate(-555.514 -1041.5)" fill="#f57c22" stroke="#f57c22" stroke-width="1"/>
+        <g id="Grupo_163038" data-name="Grupo 163038">
+          <path id="Trazado_230786" data-name="Trazado 230786" d="M560.5,1274.074v-225.4" transform="translate(-555.514 -1041.5)" fill="#f57c22" stroke="#f57c22" stroke-miterlimit="10" stroke-width="1"/>
+          <g id="Grupo_163037" data-name="Grupo 163037">
+            <path id="Trazado_230787" data-name="Trazado 230787" d="M565.486,1050.135,560.5,1041.5l-4.986,8.635Z" transform="translate(-555.514 -1041.5)" fill="#f57c22" stroke="#f57c22" stroke-width="1"/>
+          </g>
+        </g>
+      </g>
+      <g id="Grupo_163042" data-name="Grupo 163042" transform="translate(5.278 227.88)">
+        <path id="Trazado_230788" data-name="Trazado 230788" d="M560.792,1245.208h511.222" transform="translate(-560.792 -1240.222)" fill="#f57c22" stroke="#f57c22" stroke-width="1"/>
+        <g id="Grupo_163041" data-name="Grupo 163041">
+          <path id="Trazado_230789" data-name="Trazado 230789" d="M560.792,1245.208h504.046" transform="translate(-560.792 -1240.222)" fill="#f57c22" stroke="#f57c22" stroke-miterlimit="10" stroke-width="1"/>
+          <g id="Grupo_163040" data-name="Grupo 163040" transform="translate(502.587)">
+            <path id="Trazado_230790" data-name="Trazado 230790" d="M755.573,1250.194l8.635-4.986-8.635-4.986Z" transform="translate(-755.573 -1240.222)" fill="#f57c22" stroke="#f57c22" stroke-width="1"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <text id="Cant_" data-name="Cant/$$" transform="translate(4735.5 -9907.702)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-28.867" y="17">Cant/$$</tspan></text>
+    <text id="Máximo" transform="translate(5281.5 -9833.063)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">Máximo</tspan></text>
+    <text id="Umbral" transform="translate(5281.5 -9781.775)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">Umbral</tspan></text>
+    <text id="Reorden" transform="translate(5281.5 -9744.403)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">Reorden</tspan></text>
+    <text id="Mínimo" transform="translate(5281.5 -9709.403)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">Mínimo</tspan></text>
+    <text id="_t_" data-name="(t)" transform="translate(5281.5 -9658.403)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-16.258" y="17">(t)</tspan></text>
+  </g>
+</svg>

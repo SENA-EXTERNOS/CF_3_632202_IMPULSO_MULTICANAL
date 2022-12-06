@@ -35,24 +35,24 @@
         
        
     .row.justify-content-around.align-items-center.mt-5
-      .col-lg-6
+      .col-lg-8
         figure
           img(src='@/assets/curso/temas/tema5/img_2_tema5.svg', alt='Texto que describa la imagen').imagen-decorativa-0 
  
-        //.col-6 
-          figure  
-            img(src='@/assets/curso/temas/tema5/img_3_tema5.svg', alt='Texto que describa la imagen').imagen-decorativa-1
-          figure 
-            img(src='@/assets/curso/temas/tema5/img_4_tema5.svg', alt='Texto que describa la imagen').imagen-decorativa-2
-          figure 
-            img(src='@/assets/curso/temas/tema5/img_5_tema5.svg', alt='Texto que describa la imagen').imagen-decorativa-3
-          figure 
-            img(src='@/assets/curso/temas/tema5/img_6_tema5.svg', alt='Texto que describa la imagen').imagen-decorativa-4
-          figure 
-            img(src='@/assets/curso/temas/tema5/img_7_tema5.svg', alt='Texto que describa la imagen').imagen-decorativa-5
-          figure 
-            img(src='@/assets/curso/temas/tema5/img_8_tema5.svg', alt='Texto que describa la imagen').imagen-decorativa-6                   
-      
+      .col-lg-4 
+        figure  
+          img(src='@/assets/curso/temas/tema5/img_3_tema5.svg', alt='Texto que describa la imagen').imagen-decorativa-1
+        figure 
+          img(src='@/assets/curso/temas/tema5/img_4_tema5.svg', alt='Texto que describa la imagen').imagen-decorativa-2
+        figure 
+          img(src='@/assets/curso/temas/tema5/img_5_tema5.png', alt='Texto que describa la imagen').imagen-decorativa-3
+        figure 
+          img(src='@/assets/curso/temas/tema5/img_6_tema5.svg', alt='Texto que describa la imagen').imagen-decorativa-4
+        figure 
+          img(src='@/assets/curso/temas/tema5/img_7_tema5.png', alt='Texto que describa la imagen').imagen-decorativa-5
+        figure 
+          img(src='@/assets/curso/temas/tema5/img_8_tema5.png', alt='Texto que describa la imagen').imagen-decorativa-6                   
+    
       .row.justify-content-around.align-items-center  
         .col-lg-12
           figcaption <p>Fuente. Elaboración del experto</p>
@@ -61,7 +61,7 @@
       .col-lg-7
         p A continuación, se describen algunos tipos de informes y los ejemplos respectivos. 
 
-    .row.justify-content-center.mb-4
+    .row.justify-content-center.mb-4.mt-3
       .col-lg-10.bg-1
         AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta acordeonA")
           .row(titulo="Informe de existencias")

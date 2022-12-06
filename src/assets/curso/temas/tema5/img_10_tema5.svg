@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="610" height="270.299" viewBox="0 0 610 270.299">
-  <g id="Grupo_166223" data-name="Grupo 166223" transform="translate(-4735.5 9907.702)">
+<svg xmlns="http://www.w3.org/2000/svg" width="624" height="270.299" viewBox="0 0 624 270.299">
+  <g id="Grupo_166220" data-name="Grupo 166220" transform="translate(-4735.5 9907.702)">
     <line id="Línea_142" data-name="Línea 142" x2="510" transform="translate(4766.5 -9772.275)" fill="none" stroke="#ff0d04" stroke-width="1" stroke-dasharray="5"/>
     <line id="Línea_143" data-name="Línea 143" x2="510" transform="translate(4766.5 -9823.563)" fill="none" stroke="#26c7db" stroke-width="1"/>
     <line id="Línea_144" data-name="Línea 144" x2="510" transform="translate(4766.5 -9699.918)" fill="none" stroke="#26c7db" stroke-width="1"/>
@@ -28,6 +28,6 @@
     <text id="Umbral" transform="translate(5281.5 -9781.775)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">Umbral</tspan></text>
     <text id="Reorden" transform="translate(5281.5 -9744.403)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">Reorden</tspan></text>
     <text id="Mínimo" transform="translate(5281.5 -9709.403)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">Mínimo</tspan></text>
-    <text id="_t_" data-name="(t)" transform="translate(5281.5 -9658.403)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-16.258" y="17">(t)</tspan></text>
+    <text id="_t_" data-name="(t)" transform="translate(5295.5 -9658.403)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-16.258" y="17">(t)</tspan></text>
   </g>
 </svg>

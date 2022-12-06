@@ -11,7 +11,7 @@
     .row.justify-content-around.align-items-center
       .col-lg-2
         figure
-          img(src='@/assets/curso/temas/tema5/img_1_tema5.svg', alt='Texto que describa la imagen')      
+          img(src='@/assets/curso/temas/tema5/img_1_tema5.svg', alt='Texto que describa la imagen').imagen-decorativa-17      
       .col-lg-10
         p Son los resultados o los hallazgos encontrados después de realizar el inventario y posterior al conteo, es decir, al contrastar la información registrada en el sistema de información de inventarios y con lo encontrado en el conteo físico.
 
@@ -36,37 +36,32 @@
        
     .row.justify-content-around.align-items-center.mt-5
       .col-lg-6
-        figure.bg-7
-          img(src='@/assets/curso/temas/tema5/img_2_tema5.png', alt='Texto que describa la imagen') 
-
-    .row.justify-content-around.align-items-center
-      .col-lg-3
-          img(src='@/assets/curso/temas/tema5/img_3_tema5.png', alt='Texto que describa la imagen').imagen-decorativa-1
-
-      .col-lg-3
-          img(src='@/assets/curso/temas/tema5/img_4_tema5.png', alt='Texto que describa la imagen').imagen-decorativa-2
-
-      .col-lg-3
-          img(src='@/assets/curso/temas/tema5/img_5_tema5.png', alt='Texto que describa la imagen').imagen-decorativa-3
-
-      .col-lg-3
-          img(src='@/assets/curso/temas/tema5/img_6_tema5.png', alt='Texto que describa la imagen').imagen-decorativa-4
-
-      .col-lg-3
-          img(src='@/assets/curso/temas/tema5/img_7_tema5.png', alt='Texto que describa la imagen').imagen-decorativa-5
-
-      .col-lg-3
-          img(src='@/assets/curso/temas/tema5/img_8_tema5.png', alt='Texto que describa la imagen').imagen-decorativa-6                   
-    
-    .row.justify-content-around.align-items-center.mt-3
-      .col-lg-10
-        figcaption <p>Fuente. Elaboración del experto</p>
+        figure
+          img(src='@/assets/curso/temas/tema5/img_2_tema5.svg', alt='Texto que describa la imagen').imagen-decorativa-0 
+ 
+        //.col-6 
+          figure  
+            img(src='@/assets/curso/temas/tema5/img_3_tema5.svg', alt='Texto que describa la imagen').imagen-decorativa-1
+          figure 
+            img(src='@/assets/curso/temas/tema5/img_4_tema5.svg', alt='Texto que describa la imagen').imagen-decorativa-2
+          figure 
+            img(src='@/assets/curso/temas/tema5/img_5_tema5.svg', alt='Texto que describa la imagen').imagen-decorativa-3
+          figure 
+            img(src='@/assets/curso/temas/tema5/img_6_tema5.svg', alt='Texto que describa la imagen').imagen-decorativa-4
+          figure 
+            img(src='@/assets/curso/temas/tema5/img_7_tema5.svg', alt='Texto que describa la imagen').imagen-decorativa-5
+          figure 
+            img(src='@/assets/curso/temas/tema5/img_8_tema5.svg', alt='Texto que describa la imagen').imagen-decorativa-6                   
+      
+      .row.justify-content-around.align-items-center  
+        .col-lg-12
+          figcaption <p>Fuente. Elaboración del experto</p>
 
     .row.justify-content-around.align-items-center.mt-5
       .col-lg-7
         p A continuación, se describen algunos tipos de informes y los ejemplos respectivos. 
 
-    .row.justify-content-center.mb-4.mt-5
+    .row.justify-content-center.mb-4
       .col-lg-10.bg-1
         AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta acordeonA")
           .row(titulo="Informe de existencias")
@@ -88,7 +83,7 @@
                 h5 Figura 2.  
                 span <em>Tipos de informe de inventario a reportar</em>
             .col-lg-12.mt-3
-              img(src='@/assets/curso/temas/tema5/img_10_tema5.png', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema5/img_10_tema5.svg', alt='Texto que describa la imagen')
               <br>
               figcaption <p>Fuente. Elaboración del experto</p>
 

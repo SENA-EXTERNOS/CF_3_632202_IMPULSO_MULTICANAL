@@ -34,7 +34,7 @@
     .row.justify-content-around.align-items-center.mt-5
       .col-lg-2
         figure
-          img(src='@/assets/curso/temas/tema2/img_2_tema2.svg', alt='Texto que describa la imagen')  
+          img(src='@/assets/curso/temas/tema2/img_2_tema2.svg', alt='Texto que describa la imagen').imagen-decorativa-14  
       .col-lg-10.bg-0
         .cajon.color-acento-contenido.p-4
           p Existen diferentes clases o formas de codificar los productos, las cuales regularmente se sustentan en series de datos.
@@ -94,7 +94,7 @@
     .row.justify-content-around.align-items-center.mt-3
       figure
         .video
-          iframe(width="560" height="315" src="https://www.youtube.com/watch?v=KLK_RR59Z_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          iframe(width="560" height="315" src="https://www.youtube.com//embed/watch?v=KLK_RR59Z_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
         figcaption <p>Fuente: Ecosistema de recursos educativos digitales- Repositorio SENA. https://youtu.be/KLK_RR59Z_k</p>
 
 </template>

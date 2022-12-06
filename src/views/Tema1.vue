@@ -15,7 +15,7 @@
         p.mt-3 Éstos permiten a la empresa su operación continua, ya que unos facilitan la obtención de los productos y la administración, y los otros, son parte integral de los mismos, en un proceso de agregación de valor, o de intermediación, cuando se trata de comercializadoras de productos alimenticios.
       .col-lg-4
         figure
-          img(src='@/assets/curso/temas/tema1/img_1_tema1.svg', alt='Texto que describa la imagen')  
+          img(src='@/assets/curso/temas/tema1/img_1_tema1.svg', alt='Texto que describa la imagen') 
      
     separador
     #t_1_1.titulo-segundo.color-acento-contenido
@@ -24,7 +24,7 @@
     .row.justify-content-around.align-items-center
       .col-lg-2
         figure
-          img(src='@/assets/curso/temas/tema1/img_2_tema1.svg', alt='Texto que describa la imagen') 
+          img(src='@/assets/curso/temas/tema1/img_2_tema1.svg', alt='Texto que describa la imagen').imagen-decorativa-11  
       .col-lg-10
         p Las inversiones que realizan las empresas para el desarrollo de las actividades se concentran principalmente en la adquisición de recursos que garanticen su operación y actividad, por ello, la relevancia de contar con un conjunto de recursos suficientes que permita cumplir con los objetivos empresariales de ventas y comercialización.  No solo se debe considerar los componentes de los productos que se elaboran, sean estos materias primas, insumos y suministros, sino también, contar con bastantes recursos no comerciales, como maquinaria de amplia capacidad de producción, estanterías, sistemas de refrigeración, de congelación, equipos de carga interna y movilidad, y demás activos que soportarán la producción y operación.
 
@@ -57,7 +57,7 @@
     .row.justify-content-around.align-items-center
       .col-lg-2
         figure
-          img(src='@/assets/curso/temas/tema1/img_4_tema1.svg', alt='Texto que describa la imagen') 
+          img(src='@/assets/curso/temas/tema1/img_4_tema1.svg', alt='Texto que describa la imagen').imagen-decorativa-12 
       .col-lg-10
         p En el mundo empresarial, en este caso el que se encuentra vinculado al sector de alimentos, pueden existir diversas formas de clasificar los inventarios. Ésta depende de identificar cómo hacer más eficiente la administración de los recursos operativos, es decir, llevar un control exacto de los estados actuales en cantidades, valor, uso, ubicación, entre otros.
 
@@ -155,7 +155,7 @@
     .row.justify-content-around.align-items-center
       .col-lg-2
         figure
-          img(src='@/assets/curso/temas/tema1/img_10_tema1.svg', alt='Texto que describa la imagen') 
+          img(src='@/assets/curso/temas/tema1/img_10_tema1.svg', alt='Texto que describa la imagen').imagen-decorativa-13 
       .col-lg-10
         p Los inventarios de recursos en las empresas se deben depositar o resguardar en espacios físicos adecuados, según sus características. De manera complementaria, se deben distinguir según corresponda a su tipo.     
 

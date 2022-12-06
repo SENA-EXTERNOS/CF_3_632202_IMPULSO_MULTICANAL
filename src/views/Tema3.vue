@@ -50,7 +50,7 @@
     .row.justify-content-around.align-items-center
       .col-lg-2
         figure
-          img(src='@/assets/curso/temas/tema3/img_3_tema3.png', alt='Texto que describa la imagen') 
+          img(src='@/assets/curso/temas/tema3/img_3_tema3.svg', alt='Texto que describa la imagen').imagen-decorativa-15 
       .col-lg-10
         p Los conteos de existencias a los inventarios de recursos deben alinearse en conformidad al periodo de aprovisionamiento, esto es que la empresa debe, por lo menos una vez al año, realizar un conteo físico, en conformidad a la contabilidad. Sin embargo, cuando se trata de alimentos, se recomienda realizarlos en periodos más regulares.
 

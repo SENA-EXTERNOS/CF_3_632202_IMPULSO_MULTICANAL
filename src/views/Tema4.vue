@@ -38,7 +38,7 @@
     .row.justify-content-around.align-items-center
       .col-lg-2
         figure
-          img(src='@/assets/curso/temas/tema4/img_3_tema4.svg', alt='Texto que describa la imagen')      
+          img(src='@/assets/curso/temas/tema4/img_3_tema4.svg', alt='Texto que describa la imagen').imagen-decorativa-16      
       .col-lg-10
         p Se trata de los dispositivos con que cuenta la empresa para la gestión de los inventarios, como puede ser los computadores, <em>tablets,</em> terminales de radio frecuencias de uso de mano (<em>Handhelds</em> con lectores de código de barra), los cuales son aplicables casi a todos los productos. Estos dispositivos captan la información de los mismos, la cual emiten por conexión en tiempo real o por frecuencias periódicas, grupos de información, lectores de código de barras, u otros aspectos sobre el producto, tales como la categoría, la ubicación, el pallet u otro elemento identificado en el proceso de toma de información. 
 

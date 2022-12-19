@@ -1,10 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="971.907" height="877" viewBox="0 0 971.907 877">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="971.906" height="877" viewBox="0 0 971.906 877">
   <defs>
     <linearGradient id="linear-gradient" x1="0.5" y1="0.086" x2="0.5" y2="0.995" gradientUnits="objectBoundingBox">
       <stop offset="0" stop-color="#fff"/>
       <stop offset="1" stop-color="#fff"/>
     </linearGradient>
-    <filter id="Elipse_6938" x="59.75" y="0" width="877" height="877" filterUnits="userSpaceOnUse">
+    <filter id="Elipse_6938" x="59.749" y="0" width="877" height="877" filterUnits="userSpaceOnUse">
       <feOffset dy="9" input="SourceAlpha"/>
       <feGaussianBlur stdDeviation="4.5" result="blur"/>
       <feFlood flood-color="#77848a" flood-opacity="0.4"/>
@@ -12,20 +12,20 @@
       <feComposite in="SourceGraphic"/>
     </filter>
   </defs>
-  <g id="Grupo_166220" data-name="Grupo 166220" transform="translate(6684.785 8386)">
-    <g id="Grupo_166219" data-name="Grupo 166219" transform="translate(-6996.627 -10425.5)">
-      <g transform="matrix(1, 0, 0, 1, 311.84, 2039.5)" filter="url(#Elipse_6938)">
+  <g id="Grupo_166219" data-name="Grupo 166219" transform="translate(10148.249 9771)">
+    <g id="Grupo_163174" data-name="Grupo 163174" transform="translate(-10462 -11799.363)">
+      <g transform="matrix(1, 0, 0, 1, 313.75, 2028.36)" filter="url(#Elipse_6938)">
         <circle id="Elipse_6938-2" data-name="Elipse 6938" cx="425" cy="425" r="425" transform="translate(73.25 4.5)" fill="url(#linear-gradient)"/>
       </g>
-      <path id="Trazado_230870" data-name="Trazado 230870" d="M948.25,434.279a203.132,203.132,0,0,1,70.686-154.307l-114.5-157.6c-91.786,72.888-150.6,185.455-150.6,311.9a399.068,399.068,0,0,0,14.507,106.893l185.282-60.2A204.534,204.534,0,0,1,948.25,434.279Z" transform="translate(-341.15 2035.915)" fill="#26c7db"/>
-      <path id="Trazado_230872" data-name="Trazado 230872" d="M1062.671,273.852a202.834,202.834,0,0,1,105.683,29.488l114.495-157.588a398.656,398.656,0,0,0-440.354,0l114.493,157.59A202.828,202.828,0,0,1,1062.671,273.852Z" transform="translate(-251.934 1992.703)" fill="#f57c22"/>
-      <g id="Grupo_163097" data-name="Grupo 163097" transform="translate(827.599 2548.965)">
+      <path id="Trazado_230870" data-name="Trazado 230870" d="M948.25,434.279a203.132,203.132,0,0,1,70.686-154.307l-114.5-157.6c-91.786,72.888-150.6,185.455-150.6,311.9a399.068,399.068,0,0,0,14.507,106.893l185.282-60.2A204.534,204.534,0,0,1,948.25,434.279Z" transform="translate(-339.242 2024.778)" fill="#26c7db"/>
+      <path id="Trazado_230872" data-name="Trazado 230872" d="M1062.671,273.852a202.834,202.834,0,0,1,105.683,29.488l114.495-157.588a398.656,398.656,0,0,0-440.354,0l114.493,157.59A202.828,202.828,0,0,1,1062.671,273.852Z" transform="translate(-250.025 1981.566)" fill="#f57c22"/>
+      <g id="Grupo_163097" data-name="Grupo 163097" transform="translate(829.507 2537.828)">
         <path id="Trazado_230874" data-name="Trazado 230874" d="M960.642,441.27V636c163.779-6.809,301.826-112.322,356.286-258.7l-185.281-60.2A203.6,203.6,0,0,1,960.642,441.27Z" transform="translate(-960.642 -317.101)" fill="#f57c22"/>
       </g>
-      <path id="Trazado_230876" data-name="Trazado 230876" d="M1089.193,434.279a204.534,204.534,0,0,1-5.375,46.69l185.282,60.2a399.063,399.063,0,0,0,14.508-106.893c0-126.448-58.818-239.015-150.6-311.9l-114.5,157.6A203.132,203.132,0,0,1,1089.193,434.279Z" transform="translate(-74.814 2035.914)" fill="#26c7db"/>
-      <path id="Trazado_230879" data-name="Trazado 230879" d="M951.531,317.1,766.249,377.3C820.712,523.682,958.756,629.193,1122.535,636V441.27A203.6,203.6,0,0,1,951.531,317.1Z" transform="translate(-328.658 2231.863)" fill="#fed935"/>
-      <path id="Trazado_231269" data-name="Trazado 231269" d="M176.052,0A176.052,176.052,0,1,1,0,176.052,176.052,176.052,0,0,1,176.052,0Z" transform="translate(634.041 2292.948)" fill="#fda829"/>
-      <g id="Grupo_163154" data-name="Grupo 163154" transform="translate(548.713 2229.52)">
+      <path id="Trazado_230876" data-name="Trazado 230876" d="M1089.193,434.279a204.534,204.534,0,0,1-5.375,46.69l185.282,60.2a399.063,399.063,0,0,0,14.508-106.893c0-126.448-58.818-239.015-150.6-311.9l-114.5,157.6A203.132,203.132,0,0,1,1089.193,434.279Z" transform="translate(-72.907 2024.777)" fill="#26c7db"/>
+      <path id="Trazado_230879" data-name="Trazado 230879" d="M951.531,317.1,766.249,377.3C820.712,523.682,958.756,629.193,1122.535,636V441.27A203.6,203.6,0,0,1,951.531,317.1Z" transform="translate(-326.751 2220.727)" fill="#fed935"/>
+      <path id="Trazado_231269" data-name="Trazado 231269" d="M176.052,0A176.052,176.052,0,1,1,0,176.052,176.052,176.052,0,0,1,176.052,0Z" transform="translate(635.949 2281.812)" fill="#fda829"/>
+      <g id="Grupo_163154" data-name="Grupo 163154" transform="translate(550.621 2218.383)">
         <path id="Trazado_230884" data-name="Trazado 230884" d="M1156.434,380.582c-12.785-7.38-31.64-9.09-47.274-5.171l53.228-30.69-86.024-49.667-54.515,31.433c-15.963-4.615-35.888-3.1-49.206,4.591s-15.961,19.175-7.993,28.388l-9.739,5.615,86.024,49.667,46.04-26.547c-6.786,9.027-3.8,19.916,8.983,27.3,16.7,9.64,43.775,9.64,60.476,0S1173.134,390.224,1156.434,380.582Z" transform="translate(-694.201 -17.898)" fill="#818181" opacity="0.2" style="mix-blend-mode: multiply;isolation: isolate"/>
         <g id="Grupo_163151" data-name="Grupo 163151" transform="translate(17.464 15.468)">
           <path id="Trazado_230885" data-name="Trazado 230885" d="M1074.376,315.588l-131.893,76.15L831.13,327.532,963.005,251.38Z" transform="translate(-831.13 -66.213)" fill="#818181" opacity="0.2" style="mix-blend-mode: multiply;isolation: isolate"/>
@@ -493,18 +493,18 @@
         <path id="Trazado_231268" data-name="Trazado 231268" d="M1055.555,388.446l-2.119,6.767c-.767-.385-4.825-4.139-6.805-4.6s-9.821-3.745-9.821-5.931,4.2-2.167,6.293-1.969c1.754.156,5.851.089,7.2.03V382c.01-4.846-1.774-33.179-4.118-41.021s-5.95-28.449-5.95-28.449c1.32-5.32,6.877-14.116,7.566-15.2-.541.975-4.8,8.68-5.23,13.751-.474,5.428,5.251,23.811,8.029,34.361,2.117,8.029,3.044,28.341,3.368,37.64.107,2.947.147,4.779.147,4.779l1.428.571Z" transform="translate(-603.603 -15.378)" fill="#818181" opacity="0.2" style="mix-blend-mode: multiply;isolation: isolate"/>
       </g>
       <text id="Inventarios_según_el_momento_de_disponibilidad" data-name="Inventarios según el 
-momento de disponibilidad" transform="translate(820.092 2162)" fill="#fff" font-size="20" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="-94.185" y="0">Inventarios según el </tspan><tspan x="-122.441" y="27">momento de disponibilidad</tspan></text>
-      <text id="Inventarios_según_la_logística_operativa" data-name="Inventarios
+momento de disponibilidad" transform="translate(822 2150.863)" fill="#fff" font-size="20" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="-94.185" y="0">Inventarios según el </tspan><tspan x="-122.441" y="27">momento de disponibilidad</tspan></text>
+      <text id="Inventarios_según_la_logística_" data-name="Inventarios
  según la logística
-operativa" transform="translate(1100.092 2381)" fill="#12263f" font-size="20" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="-50.923" y="0">Inventarios</tspan><tspan x="-81.899" y="27" xml:space="preserve"> según la logística</tspan><tspan x="-42.222" y="54">operativa</tspan></text>
+" transform="translate(1102 2369.863)" fill="#12263f" font-size="20" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="-50.923" y="0">Inventarios</tspan><tspan x="-81.899" y="27" xml:space="preserve"> según la logística</tspan><tspan x="0" y="54"></tspan></text>
       <text id="Inventarios_según_la_periodicidad" data-name="Inventarios según 
-la periodicidad" transform="translate(979.092 2715)" fill="#fff" font-size="20" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="-83.501" y="0">Inventarios según </tspan><tspan x="-66.65" y="27">la periodicidad</tspan></text>
+la periodicidad" transform="translate(981 2703.863)" fill="#fff" font-size="20" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="-83.501" y="0">Inventarios según </tspan><tspan x="-66.65" y="27">la periodicidad</tspan></text>
       <text id="Inventarios_de_recursos_para_elaboración_o_fabricación" data-name="Inventarios de recursos 
 para elaboración 
-o fabricación" transform="translate(654.092 2701)" fill="#12263f" font-size="20" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="-109.18" y="0">Inventarios de recursos </tspan><tspan x="-77.764" y="27">para elaboración </tspan><tspan x="-58.906" y="54">o fabricación</tspan></text>
+o fabricación" transform="translate(656 2689.863)" fill="#12263f" font-size="20" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="-109.18" y="0">Inventarios de recursos </tspan><tspan x="-77.764" y="27">para elaboración </tspan><tspan x="-58.906" y="54">o fabricación</tspan></text>
       <text id="Otros_tipos_de_inventario_" data-name="Otros tipos 
-de inventario " transform="translate(504.092 2381)" fill="#12263f" font-size="20" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="-52.217" y="0">Otros tipos </tspan><tspan x="-61.582" y="27">de inventario </tspan></text>
-      <g id="Grupo_161359" data-name="Grupo 161359" transform="translate(-715.684 1251.84)">
+de inventario " transform="translate(506 2369.863)" fill="#12263f" font-size="20" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="-52.217" y="0">Otros tipos </tspan><tspan x="-61.582" y="27">de inventario </tspan></text>
+      <g id="Grupo_161359" data-name="Grupo 161359" transform="translate(-713.775 1240.703)">
         <g id="Grupo_80119" data-name="Grupo 80119" transform="translate(-2306.364 2603.034)">
           <circle id="Elipse_4711" data-name="Elipse 4711" cx="1.386" cy="1.386" r="1.386" transform="translate(3365.884 -1363.873)" fill="#26c7db"/>
           <circle id="Elipse_4712" data-name="Elipse 4712" cx="1.386" cy="1.386" r="1.386" transform="translate(3365.884 -1345.268)" fill="#26c7db"/>
@@ -552,7 +552,7 @@ de inventario " transform="translate(504.092 2381)" fill="#12263f" font-size="20
           </g>
         </g>
       </g>
-      <g id="Grupo_161358" data-name="Grupo 161358" transform="translate(806.96 12911.955)">
+      <g id="Grupo_161358" data-name="Grupo 161358" transform="translate(808.868 12900.818)">
         <g id="Grupo_156319" data-name="Grupo 156319" transform="matrix(0.951, -0.309, 0.309, 0.951, -451.721, -11605.408)">
           <g id="Grupo_130269-2" data-name="Grupo 130269" transform="translate(478.776 1730.314) rotate(180)">
             <g id="Grupo_130268-2" data-name="Grupo 130268" transform="translate(0 0)">

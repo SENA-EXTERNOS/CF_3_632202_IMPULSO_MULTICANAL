@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Operación de inventarios para el impulso comercial',
     descripcionCurso:
-      'En este componente formativo se desarrollarán los aspectos relacionados con los inventarios o niveles de existencias y manejo de materias primas, insumos, suministros, productos en proceso y terminados, así como aspectos propios para la gestión, instrumentos para analizar y realizar registros asociados al conteo y control de existencias, y la generación de informes',
+      'En este componente formativo se desarrollarán los aspectos relacionados con los inventarios o niveles de existencias y manejo de materias primas, insumos, suministros, productos en proceso y terminados, así como aspectos propios para la gestión, instrumentos para analizar y realizar registros asociados al conteo y control de existencias, y la generación de informes.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal-decorativo-5.svg'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -212,9 +212,9 @@ export default {
         'https://revistas.udem.edu.co/index.php/ingenierias/article/view/1692/1637',
     },
     {
-      tema: 'El uso de software libre en el control de inventarios:',
+      tema: 'El uso de <em>software</em> libre en el control de inventarios:',
       referencia:
-        'Delgado Soto, E., Cruz Rivero L., y Lince Olguín E. (2019).  El uso de software libre en el control de inventarios: caso de estudio. <em>Revista Ciencia Administrativa,1</em>',
+        'Delgado Soto, E., Cruz Rivero L., y Lince Olguín E. (2019).  El uso de <em>software</em> libre en el control de inventarios: caso de estudio. <em>Revista Ciencia Administrativa,1</em>',
       tipo: 'Artículo- caso de estudio',
       link: 'https://www.uv.mx/iiesca/files/2019/10/08CA201901.pdf',
     },
@@ -231,7 +231,7 @@ export default {
     {
       termino: 'Alimento',
       significado:
-        'es producto de origen natural, o elaborado con fines de ser consumido para aportar al cuerpo humano nutrientes y/o energía. Puede encontrase en estados líquidos o sólidos',
+        'es producto de origen natural, o elaborado con fines de ser consumido para aportar al cuerpo humano nutrientes y/o energía. Puede encontrase en estados líquidos o sólidos.',
     },
     {
       termino: 'Conteo',

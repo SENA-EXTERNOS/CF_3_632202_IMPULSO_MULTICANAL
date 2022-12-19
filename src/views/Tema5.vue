@@ -17,7 +17,7 @@
 
     separador
     #t_5_1.titulo-segundo.color-acento-contenido
-      h2 5.1. Tipos de informes de inventarios
+      h2 5.1 Tipos de informes de inventarios
 
     .row.justify-content-around.align-items-center
       .col-lg-12
@@ -29,11 +29,7 @@
           h5 Figura 1.  
           span <em>Tipos de informe de inventario a reportar</em>       
 
-    .row.justify-content-around.align-items-center.mt-5
-      .col-lg-8
-        p A continuación, se describen algunos tipos de informes y los ejemplos respectivos.
-        
-       
+         
     .row.justify-content-around.align-items-center.mt-5
       .col-lg-8
         figure
@@ -66,7 +62,7 @@
         AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta acordeonA")
           .row(titulo="Informe de existencias")
             .col-12
-              p.mb-0 Refiere a si las cantidades de productos encontradas son idénticas a las registradas en el sistema.  Si falta, indicará la diferencia; si sobra, indicará el excedente; y, si corresponde, se reportará en estado ‘ok’. Este estado de existencias implica un resultado de costos igualmente.
+              p.mb-0 Refiere a si las cantidades de productos encontradas son idénticas a las registradas en el sistema.  Si falta, indicará la diferencia; si sobra, indicará el excedente; y, si corresponde, se reportará en estado <em>‘ok’</em>. Este estado de existencias implica un resultado de costos igualmente.
             .col-lg-12.mt-3
               .titulo-sexto.color-acento-contenido.mb-3.mt-3
                 h5 Tabla 2.  
@@ -78,10 +74,10 @@
           .row(titulo="Informe de máximos y mínimos")
             .col-12
               p.mb-0 En este tipo de informe se analiza si las existencias físicas son superiores al nivel máximo del inventario, lo que se obtiene del sistema de gestión o de la misma tarjeta Kardex, o si están en el valor esperado, que es dentro del máximo y mínimo.
-            .col-lg-10.mt-3
+            .col-lg-12.mt-3
               .titulo-sexto.color-acento-contenido.mb-3.mt-3
                 h5 Figura 2.  
-                span <em>Tipos de informe de inventario a reportar</em>
+                span <em>Esquema del estado de máximos y mínimos de los recursos objeto de análisis de inventario</em>
             .col-lg-12.mt-3
               img(src='@/assets/curso/temas/tema5/img_10_tema5.svg', alt='Texto que describa la imagen')
               <br>
@@ -114,7 +110,7 @@
 
     separador
     #t_5_2.titulo-segundo.color-acento-contenido
-      h2 5.2. Reporte de informes
+      h2 5.2 Reporte de informes
 
     .row.bg-5.justify-content-around.align-items-center.mt-3
       .bloque-texto-g.color-acento-botones.p-3.p-sm-4.p-md-5

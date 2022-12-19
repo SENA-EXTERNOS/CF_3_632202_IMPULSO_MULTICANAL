@@ -7,7 +7,7 @@
         span 4
       h1 Herramientas Tecnológicas
 
-    .row.justify-content-around.align-items-center.mt-3
+    .row.bg-7.justify-content-around.align-items-center.mt-3
       .bloque-texto-g.color-acento-contenido.p-3.p-sm-4.p-md-5
         .bloque-texto-g__img(
           :style="{'background-image': `url(${require('@/assets/curso/temas/tema4/img_1_tema4.svg')})`}"
@@ -17,7 +17,7 @@
 
     separador
     #t_4_1.titulo-segundo.color-acento-contenido
-      h2 4.1. Herramientas de <em>Software</em>
+      h2 4.1 Herramientas de <em>Software</em>
 
     .row.justify-content-around.align-items-center
       .col-lg-7
@@ -33,7 +33,7 @@
 
     separador
     #t_4_2.titulo-segundo.color-acento-contenido
-      h2 4.2. Recursos para la captura
+      h2 4.2 Recursos para la captura
 
     .row.justify-content-around.align-items-center
       .col-lg-2

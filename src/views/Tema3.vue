@@ -19,7 +19,7 @@
 
     separador
     #t_3_1.titulo-segundo.color-acento-contenido
-      h2 3.1. Pasos para realizar los conteos
+      h2 3.1 Pasos para realizar los conteos
 
     .row.justify-content-around.align-items-center.mt-5
       .col-lg-11
@@ -36,7 +36,7 @@
 
           p(numero="4" titulo="Suspender actividades de entradas y salidas") La realización de conteos debe suspender la entradas y salidas de existencias por parte de proveedores y distribuidores. Esto implica una programación e informarles a éstos o a grandes clientes.
 
-          p(numero="5" titulo="Prepara los recursos para el conteo") El ejercicio de conteo debe ser el mínimo posible, ya que es una actividad extenuante, y por tanto debe hacerse con los recursos pertinentes para su desarrollo, como listados, de dispositivos electrónicos, computadores, y demás aspectos que se consideren necesarios para el desarrollo de las actividades y evitar problemas de última hora.
+          p(numero="5" titulo="Preparar los recursos para el conteo") El ejercicio de conteo debe ser el mínimo posible, ya que es una actividad extenuante, y por tanto debe hacerse con los recursos pertinentes para su desarrollo, como listados, de dispositivos electrónicos, computadores, y demás aspectos que se consideren necesarios para el desarrollo de las actividades y evitar problemas de última hora.
 
           p(numero="6" titulo="Realizar el conteo físico") Es el ejercicio de identificar en las instalaciones del almacén, en las estanterías, o donde se encuentren los recursos resguardados, por parte del equipo designado para cada categoría; se recomienda que se realice en parejas para verificar los conteos y el registro de la información de manera adecuada, en un ejercicio de veeduría interactiva.
       .col-8.col-lg-4
@@ -45,7 +45,7 @@
 
     separador
     #t_3_2.titulo-segundo.color-acento-contenido
-      h2 3.2. Frecuencia de conteo
+      h2 3.2 Frecuencia de conteo
 
     .row.justify-content-around.align-items-center
       .col-lg-2

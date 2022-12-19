@@ -19,7 +19,7 @@
      
     separador
     #t_1_1.titulo-segundo.color-acento-contenido
-      h2 1.1. Relevancia de los inventarios y sus objetivos
+      h2 1.1 Relevancia de los inventarios y sus objetivos
     
     .row.justify-content-around.align-items-center
       .col-lg-2
@@ -52,7 +52,7 @@
           
     separador
     #t_1_2.titulo-segundo.color-acento-contenido
-      h2 1.2. Clasificación de inventarios
+      h2 1.2 Clasificación de inventarios
     
     .row.justify-content-around.align-items-center
       .col-lg-2
@@ -77,7 +77,7 @@
           p Esta clasificación busca identificar las movilidades que tienen los recursos en un periodo determinado de tiempo, así se puede establecer su rotación, el valor de las inversiones en dichos recursos y la pertinencia de su continuidad en el portafolio o reservas de productos de la empresa.
 
         .tarjeta.color-acento-botones.p-3(x="74%" y="35%" numero="+")
-          .h5.mb-2 Inventarios según la logística operativa
+          .h5.mb-2 Inventarios según la logística.
           p Se determina por los niveles de recursos a tener en la empresa, los cuales dependen de la disponibilidad de espacios de almacenamiento, tiempo de entrega de los proveedores, procedencia, pues si hay que importarlos, los tiempos serán mayores.
 
         .tarjeta.color-acento-botones.p-3(x="63%" y="88%" numero="+")
@@ -112,7 +112,7 @@
 
     separador
     #t_1_3.titulo-segundo.color-acento-contenido
-      h2 1.3. Almacenamiento de inventarios
+      h2 1.3 Almacenamiento de inventarios
 
     .row.justify-content-around.align-items-center.mt-3
       .bloque-texto-g.color-acento-contenido.p-3.p-sm-4.p-md-5
@@ -150,7 +150,7 @@
  
     separador
     #t_1_4.titulo-segundo.color-acento-contenido
-      h2 1.4. Clases de almacenamiento
+      h2 1.4 Clases de almacenamiento
 
     .row.justify-content-around.align-items-center
       .col-lg-2

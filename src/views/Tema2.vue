@@ -29,7 +29,7 @@
 
     separador
     #t_2_1.titulo-segundo.color-acento-contenido
-      h2 2.1. Sistemas de codificación de productos de inventario
+      h2 2.1 Sistemas de codificación de productos de inventario
 
     .row.justify-content-around.align-items-center.mt-5
       .col-lg-2
@@ -73,7 +73,7 @@
 
     separador
     #t_2_2.titulo-segundo.color-acento-contenido
-      h2 2.2. Orden y control a partir de la codificación
+      h2 2.2 Orden y control a partir de la codificación
 
     .row.justify-content-around.align-items-center.mt-3
       .bloque-texto-g.color-acento-contenido.p-3.p-sm-4.p-md-5
@@ -94,7 +94,7 @@
     .row.justify-content-around.align-items-center.mt-3
       figure
         .video
-          iframe(width="560" height="315" src="https://www.youtube.com//embed/watch?v=KLK_RR59Z_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/watch?v=KLK_RR59Z_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
         figcaption <p>Fuente: Ecosistema de recursos educativos digitales- Repositorio SENA. https://youtu.be/KLK_RR59Z_k</p>
 
 </template>

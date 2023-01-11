@@ -7,32 +7,31 @@
         span 1
       h1 Inventarios 
 
-    .row.justify-content-around.align-items-center
+    .row.justify-content-around.align-items-center.mb-5
       .col-lg-8.bg-0
         .cajon.color-acento-contenido.p-4
-          p Los inventarios son el conjunto de todos los activos o recursos con que cuenta la empresa para el desarrollo de sus actividades, ya sean estos con fines de convertirse en dinero o no. Es decir, conforman los recursos que utiliza para obtener, procesar o fabricar los productos propios de su portafolio de ventas; al igual que los elementos o artículos de activos que tiene para desarrollar su actividad, como son las máquinas, los vehículos, los muebles para la operación, entre otros.
+          p El término inventario, se refiere al conjunto de todos los activos o recursos con que cuenta una empresa para el desarrollo de sus actividades, sea con fines de lucro o no; es decir, los inventarios conforman los recursos que utiliza la organización para obtener, procesar o fabricar, los productos propios de su portafolio de ventas, lo mismo que los elementos o artículos de activos que tiene para desarrollar su actividad y operación, como las máquinas, los vehículos, los muebles, entre otros.
           
-        p.mt-3 Éstos permiten a la empresa su operación continua, ya que unos facilitan la obtención de los productos y la administración, y los otros, son parte integral de los mismos, en un proceso de agregación de valor, o de intermediación, cuando se trata de comercializadoras de productos alimenticios.
+        p.mt-3 Los inventarios permiten, a la empresa, tener el control, poseer una mayor supervisión, reducir costos y realizar una operación continua, debido a que facilitan la obtención de los productos, su administración, selección, y son parte integral de los mismos.
       .col-lg-4
         figure
           img(src='@/assets/curso/temas/tema1/img_1_tema1.svg', alt='Texto que describa la imagen') 
      
-    separador
-    #t_1_1.titulo-segundo.color-acento-contenido
-      h2 1.1 Relevancia de los inventarios y sus objetivos
+
+    h3 Relevancia de los inventarios y sus objetivos
     
     .row.justify-content-around.align-items-center
       .col-lg-2
         figure
           img(src='@/assets/curso/temas/tema1/img_2_tema1.svg', alt='Texto que describa la imagen').imagen-decorativa-11  
       .col-lg-10
-        p Las inversiones que realizan las empresas para el desarrollo de las actividades se concentran principalmente en la adquisición de recursos que garanticen su operación y actividad, por ello, la relevancia de contar con un conjunto de recursos suficientes que permita cumplir con los objetivos empresariales de ventas y comercialización.  No solo se debe considerar los componentes de los productos que se elaboran, sean estos materias primas, insumos y suministros, sino también, contar con bastantes recursos no comerciales, como maquinaria de amplia capacidad de producción, estanterías, sistemas de refrigeración, de congelación, equipos de carga interna y movilidad, y demás activos que soportarán la producción y operación.
+        p Las inversiones que realizan las empresas para el desarrollo de las actividades se concentran, principalmente, en la adquisición de recursos que garanticen su operación y actividad; por esta razón, se presenta la importancia de contar con un conjunto de recursos suficientes que permitan cumplir con los objetivos empresariales de ventas y comercialización. No solo se deben considerar los componentes de los productos que se fabrican, sean estos, materias primas, insumos y suministros, sino también, contar con la cantidad suficiente de recursos no comerciales, como maquinaria de amplia capacidad de producción, estanterías, sistemas de refrigeración, de congelación, equipos de carga interna y movilidad y los demás activos que soportarán la producción y operación del servicio que se preste.
 
     .row.justify-content-around.align-items-center.mt-3
-      p La empresa en su gestión de recursos y manejo de inventarios, como base para ejercicio y operación de manufactura o comercialización de productos alimenticios, debe propender porque dicho ejercicio le favorezca el logro de objetivos corporativos como son:
+      p Una empresa, en su gestión de recursos y manejo de inventarios, como base para el ejercicio y operación de manufactura o comercialización de diferentes tipos de productos debe propender para que esta actividad le favorezca en el logro de los objetivos corporativos, los cuales son:
 
 
-    .row.justify-content-center.mb-4.mt-5
+    .row.justify-content-center.mb-4.my-5
       .col-lg-5
         figure
           img(src="@/assets/curso/temas/tema1/img_3_tema1.svg", alt="alt").img400.m-auto
@@ -48,23 +47,18 @@
               
           .row(titulo="Objetivo 3")
             .col-12
-              p.mb-0 Determinar niveles adecuados o ideales de los diferentes recursos y/o productos, que permitan minimizar costos variables y costos fijos, ya que al tener niveles de compras y abastecimiento eficientes y adecuados, se puede obtener de forma más barata; así mismo, en la medida en que la empresa determine niveles suficientes, el costo de almacenarlos, cuidarlos y manipularlos es más económico, ya que es más económico comprar grandes cantidades, y el costo de almacenamiento tiende a disminuir (Cruz Fernández, 2017)
-          
-    separador
-    #t_1_2.titulo-segundo.color-acento-contenido
-      h2 1.2 Clasificación de inventarios
+              p.mb-0 Determinar niveles adecuados o ideales de los diferentes recursos y/o productos, que permitan minimizar costos variables y costos fijos, porque al tener niveles de compras y abastecimiento eficientes y adecuados, se puede lograr una adquisición más favorable; asimismo, en la medida en que la empresa determine niveles competentes, el costo de almacenarlos, cuidarlos y manipularlos es más económico; por lo tanto, es importante comprar grandes cantidades, porque el costo de almacenamiento tiende a disminuir.
+    br      
+    h3 Clasificación de inventarios
     
-    .row.justify-content-around.align-items-center
+    .row.justify-content-around.align-items-center.mb-5
       .col-lg-2
         figure
           img(src='@/assets/curso/temas/tema1/img_4_tema1.svg', alt='Texto que describa la imagen').imagen-decorativa-12 
       .col-lg-10
-        p En el mundo empresarial, en este caso el que se encuentra vinculado al sector de alimentos, pueden existir diversas formas de clasificar los inventarios. Ésta depende de identificar cómo hacer más eficiente la administración de los recursos operativos, es decir, llevar un control exacto de los estados actuales en cantidades, valor, uso, ubicación, entre otros.
+        p En el mundo empresarial, existen diversas formas para clasificar los inventarios; estas dependen de cómo se realiza el proceso para identificar cómo hacer más eficiente la administración de los recursos operativos, es decir, para llevar un control exacto de los estados actuales en cantidad, valor, uso, ubicación y lo que requiera el proceso que se lleva a cabo.
 
-    .row.justify-content-around.align-items-center.mt-5
-      .col-lg-12
-        h3 Clasificación de inventarios en una empresa
-        p A continuación, se presentan las formas más comunes de clasificar los recursos de inventario con que cuentan las empresas para sus operaciones:
+    p A continuación, se presentan las formas más comunes de clasificar los recursos de inventario con que cuentan las empresas para sus operaciones:
 
     .row.justify-content-around.align-items-center
       ImagenInfografica.color-acento-botones.bg-2
@@ -96,7 +90,7 @@
       .col-lg-12
         p Para ampliar los conceptos asociados a la clasificación de los inventarios e identificar cómo se subdividen estos tipos, por favor ver el documento. 
 
-    .row.bg-3.justify-content-around.align-items-center.mt-5
+    .row.bg-3.justify-content-around.align-items-center.my-5
       .tarjeta.color-primario.p-3
         .row.justify-content-around.align-items-center
           .col-3.col-sm-2.col-lg-1
@@ -110,11 +104,10 @@
                   span Descargar
                   i.fas.fa-file-download
 
-    separador
-    #t_1_3.titulo-segundo.color-acento-contenido
-      h2 1.3 Almacenamiento de inventarios
 
-    .row.justify-content-around.align-items-center.mt-3
+    h3.mb-5 Almacenamiento de inventarios
+
+    .row.justify-content-around.align-items-center.mt-3.mb-5
       .bloque-texto-g.color-acento-contenido.p-3.p-sm-4.p-md-5
         .bloque-texto-g__img(
           :style="{'background-image': `url(${require('@/assets/curso/temas/tema1/img_7_tema1.svg')})`}"
@@ -126,7 +119,7 @@
       .col-lg-10
         p Dentro de esta definición de almacenes se pueden identificar dos funciones dominantes:
 
-    .row.bg-4.justify-content-around.align-items-center.mt-5
+    .row.bg-4.justify-content-around.align-items-center.my-5
       .tarjeta.tarjeta--azul.p-4
         SlyderA(tipo="b")
           .row.justify-content-center.align-items-center.my-lg-4
@@ -148,9 +141,8 @@
               figure
                 img(src='@/assets/curso/temas/tema1/img_9_tema1.svg', alt='Texto que describa la imagen')
  
-    separador
-    #t_1_4.titulo-segundo.color-acento-contenido
-      h2 1.4 Clases de almacenamiento
+
+    h3.mb-5 Clases de almacenamiento
 
     .row.justify-content-around.align-items-center
       .col-lg-2
@@ -218,7 +210,7 @@
       .col-lg-10
         p Para ampliar el concepto sobre gestión y manejo de las existencias de inventario, se recomienda consultar el documento. 
 
-    .row.bg-3.justify-content-around.align-items-center.mt-5
+    .row.bg-3.justify-content-around.align-items-center.my-5
       .tarjeta.color-primario.p-3
         .row.justify-content-around.align-items-center
           .col-3.col-sm-2.col-lg-1
@@ -232,31 +224,20 @@
                   span Descargar
                   i.fas.fa-file-download
 
-    separador
-    #t_1_5.titulo-segundo.color-acento-contenido
-      h2 1.5 Nivel óptimo de Inventario
+    h3.mb-5 Nivel óptimo de Inventario
 
-    .row.justify-content-around.align-items-center.mt-3
+    .row.justify-content-around.align-items-center.mt-3.mb-5
       .bloque-texto-g.color-acento-botones.p-3.p-sm-4.p-md-5
         .bloque-texto-g__img(
           :style="{'background-image': `url(${require('@/assets/curso/temas/tema1/img_13_tema1.svg')})`}"
         )
         .bloque-texto-g__texto.p-4
-          p.mb-0 Es la determinación de las cantidades de recursos o productos que permiten cubrir las demandas o necesidades del departamento de producción y el de ventas. Para ampliar este tema, por favor ver el vídeo a continuación.    
+          p.mb-0 El nivel óptimo de inventario, se refiere a la determinación de las cantidades de recursos o productos que permiten cubrir las demandas o necesidades de los departamentos de producción y de ventas, para que representen una inversión que sea productiva. Para ampliar este tema, lo invitamos a ver el video a continuación: 
 
     .row.justify-content-around.align-items-center.mt-5
       figure
         .video
           iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-
-
-
-
-
-
-
-
-
 
 
 </template>

@@ -3,7 +3,7 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    p El ejercicio de gestión de los recursos necesarios para la fabricación y comercialización de productos alimenticios requiere una meticulosa adecuación y organización, lo que implica la agrupación de los mismos por grupos de en categorías, en las cuales se deben tener en cuenta aspectos como su naturaleza  y participación en el proceso productivo o de comercialización,  aspectos perecederos, cantidades, valor, así como necesidades de preservación y cuidado; por este motivo es necesario llevar diversas clasificaciones cómo las que se detallan en el siguiente mapa.  
+    p El siguiente mapa integra los criterios y especificidades de los conocimientos expuestos en el presente componente formativo.
     
     .row.justify-content-center.mt-5
       .col-lg-10.mb-5

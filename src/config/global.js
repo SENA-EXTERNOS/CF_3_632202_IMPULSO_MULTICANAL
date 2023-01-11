@@ -1,8 +1,8 @@
 export default {
   global: {
-    componenteFormativo: 'Operación de inventarios para el impulso comercial',
+    componenteFormativo: 'Operación de inventarios',
     descripcionCurso:
-      'En este componente formativo se desarrollarán los aspectos relacionados con los inventarios o niveles de existencias y manejo de materias primas, insumos, suministros, productos en proceso y terminados, así como aspectos propios para la gestión, instrumentos para analizar y realizar registros asociados al conteo y control de existencias, y la generación de informes.',
+      'En este componente formativo, se desarrollarán aspectos relacionados con los inventarios también conocidos como niveles de existencias y manejo de materias primas, insumos, suministros, productos en proceso y productos terminados; también se conocerán aspectos propios para la gestión, informes e instrumentos, para analizar, y llevar a cabo, los registros asociados al conteo y al control de las existencias.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal-decorativo-5.svg'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -43,38 +43,6 @@ export default {
         numero: '1',
         titulo: 'Inventarios',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.1',
-            titulo: 'Relevancia de los inventarios y sus objetivos',
-            hash: 't_1_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.2',
-            titulo: 'Clasificación de inventarios',
-            hash: 't_1_2',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.3',
-            titulo: 'Almacenamiento de inventarios',
-            hash: 't_1_3',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.4',
-            titulo: 'Clases de almacenamiento',
-            hash: 't_1_4',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.5',
-            titulo: 'Nivel óptimo de inventario',
-            hash: 't_1_5',
-          },
-        ],
       },
 
       {
@@ -83,20 +51,6 @@ export default {
         numero: '2',
         titulo: 'Codificación',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.1',
-            titulo: 'Sistemas de codificación de productos de inventario',
-            hash: 't_2_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.2',
-            titulo: 'Orden y control a partir de la codificación',
-            hash: 't_2_2',
-          },
-        ],
       },
       {
         nombreRuta: 'tema3',
@@ -104,20 +58,6 @@ export default {
         numero: '3',
         titulo: 'Conteo',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.1',
-            titulo: 'Pasos para realizar los conteos',
-            hash: 't_3_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.2',
-            titulo: 'Frecuencia de conteo',
-            hash: 't_3_2',
-          },
-        ],
       },
       {
         nombreRuta: 'tema4',
@@ -125,20 +65,6 @@ export default {
         numero: '4',
         titulo: 'Herramientas Tecnológicas',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '4.1',
-            titulo: 'Herramientas de <em>Software</em>',
-            hash: 't_4_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '4.2',
-            titulo: 'Recursos para la captura',
-            hash: 't_4_2',
-          },
-        ],
       },
       {
         nombreRuta: 'tema5',
@@ -146,20 +72,6 @@ export default {
         numero: '5',
         titulo: 'Reportes e informes de inventarios',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '5.1',
-            titulo: 'Tipos de informes de inventarios',
-            hash: 't_5_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '5.2',
-            titulo: 'Reporte de informes',
-            hash: 't_5_2',
-          },
-        ],
       },
     ],
     subMenu: [
@@ -212,15 +124,14 @@ export default {
         'https://revistas.udem.edu.co/index.php/ingenierias/article/view/1692/1637',
     },
     {
-      tema: 'El uso de <em>software</em> libre en el control de inventarios:',
+      tema: 'Codificación ',
       referencia:
         'Delgado Soto, E., Cruz Rivero L., y Lince Olguín E. (2019).  El uso de <em>software</em> libre en el control de inventarios: caso de estudio. <em>Revista Ciencia Administrativa,1</em>',
       tipo: 'Artículo- caso de estudio',
       link: 'https://www.uv.mx/iiesca/files/2019/10/08CA201901.pdf',
     },
     {
-      tema:
-        'Gestión y Control de Aprovisionamiento de Materias Primas de alimentos',
+      tema: 'Control',
       referencia:
         'Pérez N. y Civera J. J. (2014). Gestión y control del aprovisionamiento de materias primas de alimentos.',
       tipo: 'Libro',
@@ -283,18 +194,11 @@ export default {
     {
       referencia:
         'Álvarez Pareja, L. F., y Parada Fonseca, S. P. (2020). <em>Gestión de Inventarios- Cartilla para el aula.</em> Corporación Universitaria Minuto de Dios UNIMINUTO. ',
-      link: '',
     },
-    {
-      referencia:
-        'Causado Rodríguez, E. (2015). Modelo de inventarios para control económico de pedidos en empresa comercializadora de alimentos. <em>Revista Ingenierías Universidad de Medellín,</em> 14 (27) p. 163-176. ',
-      link:
-        'https://revistas.udem.edu.co/index.php/ingenierias/article/view/1692/1637',
-    },
+
     {
       referencia:
         'Cruz Fernández, A. (2017). <em>Gestión de Inventarios.</em> Málaga: IC Editorial. ',
-      link: '',
     },
     {
       referencia:
@@ -310,7 +214,6 @@ export default {
     {
       referencia:
         'Resolución 2674 de 2013. [Ministerio de salud y protección social] Por la cual se reglamenta el artículo 126 del Decreto 019 de 2012 y se dictan otras disposiciones.  22 de julio de 2013',
-      link: '',
     },
   ],
   creditos: {

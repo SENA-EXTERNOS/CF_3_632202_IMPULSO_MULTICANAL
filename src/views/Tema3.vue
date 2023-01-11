@@ -7,7 +7,7 @@
         span 3
       h1 Conteo
 
-    .row.bg-5.justify-content-around.align-items-center.mt-3
+    .row.bg-5.justify-content-around.align-items-center.mt-3.mb-5
       .bloque-texto-g.color-acento-botones.p-3.p-sm-4.p-md-5
         .bloque-texto-g__img(
           :style="{'background-image': `url(${require('@/assets/curso/temas/tema3/img_1_tema3.png')})`}"
@@ -17,15 +17,13 @@
           <br><br>
           p.mt-3 Realizar conteos físicos de inventarios en los almacenes es un ejercicio que debe ser habitual para tener información fiable y exacta frente a los niveles de existencias, lo que permitirá realizar la programación las compras y el aprovisionamiento por categorías, según la rotación y distribución a tiendas, así como la identificación de productos obsoletos, no aptos para la venta.
 
-    separador
-    #t_3_1.titulo-segundo.color-acento-contenido
-      h2 3.1 Pasos para realizar los conteos
+    h3 Pasos para realizar los conteos
 
     .row.justify-content-around.align-items-center.mt-5
       .col-lg-11
         p La realización de un conteo exige de una preparación y unos pasos a seguir, los cuales se pueden describir de la siguiente manera: 
 
-    .row.bg-6.justify-content-center.mb-5.mt-5
+    .row.bg-6.justify-content-center.my-5
       .col-lg-8
         LineaTiempoD.color-secundario
           p(numero="1" titulo="Determinar las categorías a verificar") La empresa debe definir qué categorías o tipos de productos se van a inspeccionar del inventario y cómo se van a cuantificar, así como especificar las cantidades, marcas, presentación, estado, etc.
@@ -43,9 +41,7 @@
         figure
           img.l.my-3(src="@/assets/curso/temas/tema3/img_2_tema3.png", alt="alt") 
 
-    separador
-    #t_3_2.titulo-segundo.color-acento-contenido
-      h2 3.2 Frecuencia de conteo
+    h3.mb-5 Frecuencia de conteo
 
     .row.justify-content-around.align-items-center
       .col-lg-2
@@ -56,7 +52,7 @@
 
     .row.justify-content-around.align-items-center.mt-5
       .col-lg-7
-        p La siguiente gráfica dispone los posibles momentos para realizar conteos.
+        p La siguiente gráfica, establece los posibles tiempos o momentos para realizar conteo de los inventarios.
 
     .row.justify-content-center.mb-5
       .col-lg-9.position-relative
@@ -96,25 +92,6 @@
             .col
               h5 Permanente
               p De manera constante la empresa verifica las existencias, lo cual se puede realizar por categorías, o grupos de productos altamente perecederos, orgánicos o de corta vida útil.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 </template>

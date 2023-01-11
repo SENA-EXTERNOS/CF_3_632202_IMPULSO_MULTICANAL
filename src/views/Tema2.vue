@@ -20,16 +20,12 @@
           h5 Tabla 1. 
           span <em>Ejemplo de construcción de codificación de productos alimenticios para la comercialización</em> 
    
-    .row.justify-content-around.align-items-center.mt-3
+    .row.justify-content-around.align-items-center.mt-3.mb-5
         .col-lg-10
           figure
             img(src='@/assets/curso/temas/tema2/img_table_tema2.png', alt='Texto que describa la imagen')  
-            figcaption.mt-3 <p>Fuente. Elaboración propia del Experto Temático</p>
 
-
-    separador
-    #t_2_1.titulo-segundo.color-acento-contenido
-      h2 2.1 Sistemas de codificación de productos de inventario
+    h3 Sistemas de codificación de productos de inventario
 
     .row.justify-content-around.align-items-center.mt-5
       .col-lg-2
@@ -41,9 +37,9 @@
        
     .row.justify-content-around.align-items-center.mt-5
       .col-lg-11
-        p Deslizar los slider para conocer los esquemas más comunes de sistemas de codificación de productos en las empresas y almacenes.
+        p Para entender los esquemas más comunes de sistemas de codificación de productos en las empresas y almacenes, a continuación, conocerá algunos de ellos:
 
-    .row.bg-4.justify-content-around.align-items-center.mt-5
+    .row.bg-4.justify-content-around.align-items-center.my-5
       .tarjeta.tarjeta--azul.p-4
         SlyderA(tipo="b")
           .row.justify-content-center.align-items-center.my-lg-4
@@ -71,9 +67,7 @@
               figure
                 img(src='@/assets/curso/temas/tema2/img_5_tema2.svg', alt='Texto que describa la imagen')
 
-    separador
-    #t_2_2.titulo-segundo.color-acento-contenido
-      h2 2.2 Orden y control a partir de la codificación
+    h3 Orden y control a partir de la codificación
 
     .row.justify-content-around.align-items-center.mt-3
       .bloque-texto-g.color-acento-contenido.p-3.p-sm-4.p-md-5
@@ -81,11 +75,11 @@
           :style="{'background-image': `url(${require('@/assets/curso/temas/tema2/img_6_tema2.svg')})`}"
         )
         .bloque-texto-g__texto.p-4
-          p.mb-0 La codificación de los productos en las empresas representa un proceso complementario a la producción y a la comercialización, cuyo fin es facilitar la ubicación o georreferenciación dentro del almacén de los recursos, productos o mercancías en el almacén y/o puntos de venta o de distribución, para identificar su trazabilidad, que permite registrar cada uno de los movimientos de los productos a lo largo de toda la cadena de suministro. Codificar es sinónimo de orden y control. Disponer de todos los artículos identificados contribuye a llevar a cabo una gestión del almacenamiento mucho más eficiente. 
+          p.mb-0 La codificación de los productos, en las empresas, representa un proceso complementario a la producción y a la comercialización, cuya finalidad es la de facilitar la ubicación o georreferenciación de los recursos, productos o mercancías en el almacén y/o puntos de venta o de distribución, para identificar su trazabilidad; esto permite registrar cada uno de los movimientos de los productos a lo largo de toda la cadena de suministro. Codificar es sinónimo de orden y control. Organizar todos los artículos con su identificación correspondiente, contribuye a llevar a cabo una gestión del almacenamiento mucho más eficiente. 
 
     .row.justify-content-around.align-items-center.mt-5
       .col-lg-12
-        p En el siguiente video se puede observar la importancia y correlación de un sistema de gestión de inventarios. La disposición física de almacenamiento y la codificación de los productos, que conlleva a un orden meticuloso tanto físico, como de la información de los recursos, lo cual es aplicable a las empresas de alimentos.  
+        p En el siguiente video se puede observar la importancia y conveniencia de un sistema de gestión de inventarios. La disposición física de almacenamiento y la codificación de los productos conlleva a un orden meticuloso, tanto físico, como de la información de los recursos, lo cual es aplicable a todo tipo de empresas.
 
     .row.justify-content-around.align-items-center.mt-5
       .col-lg-10
@@ -95,7 +89,7 @@
       figure
         .video
           iframe(width="560" height="315" src="https://www.youtube.com/embed/watch?v=KLK_RR59Z_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-        figcaption <p>Fuente: Ecosistema de recursos educativos digitales- Repositorio SENA. https://youtu.be/KLK_RR59Z_k</p>
+        
 
 </template>
 

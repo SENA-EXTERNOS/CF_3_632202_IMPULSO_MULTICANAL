@@ -63,7 +63,7 @@ export default {
         nombreRuta: 'tema4',
         icono: 'far fa-file-alt',
         numero: '4',
-        titulo: 'Herramientas Tecnológicas',
+        titulo: 'Herramientas tecnológicas',
         desarrolloContenidos: true,
       },
       {
@@ -118,7 +118,7 @@ export default {
     {
       tema: 'Inventario y almacenamiento sistema ABC',
       referencia:
-        'Causado Rodríguez, E. (2015). Modelo de inventarios para control económico de pedidos en empresa comercializadora de alimentos. <em>Revista Ingenierías Universidad de Medellín,</em> 14 (27) p. 163-176.',
+        'Causado Rodríguez, E. (2015). Modelo de inventarios para control económico de pedidos en empresa comercializadora de alimentos. <em>Revista Ingenierías Universidad de Medellín,</em> 14(27), p. 163-176.',
       tipo: 'Artículo',
       link:
         'https://revistas.udem.edu.co/index.php/ingenierias/article/view/1692/1637',
@@ -126,7 +126,7 @@ export default {
     {
       tema: 'Codificación ',
       referencia:
-        'Delgado Soto, E., Cruz Rivero L., y Lince Olguín E. (2019).  El uso de <em>software</em> libre en el control de inventarios: caso de estudio. <em>Revista Ciencia Administrativa,1</em>',
+        'Delgado Soto, E., Cruz Rivero L., & Lince Olguín E. (2019).  El uso de <em>software</em> libre en el control de inventarios: caso de estudio. <em>Revista Ciencia Administrativa,1.</em>',
       tipo: 'Artículo- caso de estudio',
       link: 'https://www.uv.mx/iiesca/files/2019/10/08CA201901.pdf',
     },
@@ -193,7 +193,7 @@ export default {
   referencias: [
     {
       referencia:
-        'Álvarez Pareja, L. F., y Parada Fonseca, S. P. (2020). <em>Gestión de Inventarios- Cartilla para el aula.</em> Corporación Universitaria Minuto de Dios UNIMINUTO. ',
+        'Álvarez Pareja, L. F., y Parada Fonseca, S. P. (2020).<em> Gestión de Inventarios- Cartilla para el aula.</em> Corporación Universitaria Minuto de Dios UNIMINUTO. ',
     },
 
     {

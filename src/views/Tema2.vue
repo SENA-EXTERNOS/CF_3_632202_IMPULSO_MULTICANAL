@@ -17,8 +17,8 @@
     .row.justify-content-around.align-items-center.mt-5
       .col-lg-9
         .titulo-sexto.color-acento-contenido.mb-3
-          h5 Tabla 1. 
-          span <em>Ejemplo de construcción de codificación de productos alimenticios para la comercialización</em> 
+          h5 Tabla 1 
+          p.mb-0 <em>Ejemplo de construcción de codificación de productos alimenticios para la comercialización</em> 
    
     .row.justify-content-around.align-items-center.mt-3.mb-5
         .col-lg-10
@@ -88,9 +88,8 @@
     .row.justify-content-around.align-items-center.mt-3
       figure
         .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/watch?v=KLK_RR59Z_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/KLK_RR59Z_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
         
-
 </template>
 
 <script>

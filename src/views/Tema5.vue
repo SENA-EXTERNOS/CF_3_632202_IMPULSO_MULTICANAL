@@ -24,8 +24,8 @@
     .row.justify-content-around.align-items-center.mt-5
       .col-lg-9
         .titulo-sexto.color-acento-contenido.mb-3
-          h5 Figura 1.  
-          span <em>Tipos de informes de inventarios a reportar</em>       
+          h5 Figura 1  
+          p.mb-0 <em>Tipos de informes de inventarios a reportar</em>       
 
          
     .row.justify-content-around.align-items-center.mt-5

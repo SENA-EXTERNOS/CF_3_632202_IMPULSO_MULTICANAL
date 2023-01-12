@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 4
-      h1 Herramientas Tecnológicas
+      h1 Herramientas tecnológicas
 
     .row.bg-7.justify-content-around.align-items-center.mt-3.mb-5
       .bloque-texto-g.color-acento-contenido.p-3.p-sm-4.p-md-5

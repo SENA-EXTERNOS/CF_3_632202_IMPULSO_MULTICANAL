@@ -198,7 +198,7 @@ export default {
 
     {
       referencia:
-        'Cruz Fernández, A. (2017). <em>Gestión de Inventarios.</em> Málaga: IC Editorial. ',
+        'Cruz Fernández, A. (2017). <em>Gestión de Inventarios.</em> IC Editorial. ',
     },
     {
       referencia:
@@ -208,12 +208,12 @@ export default {
     },
     {
       referencia:
-        'SENA (2012) <em>Almacenamiento e Inventarios: responsables del orden en las grandes empresas.</em> [Video] Youtube ',
+        'SENA. (2012) <em>Almacenamiento e Inventarios: responsables del orden en las grandes empresas</em> (video). YouTube.  ',
       link: 'https://youtu.be/KLK_RR59Z_k',
     },
     {
       referencia:
-        'Resolución 2674 de 2013. [Ministerio de salud y protección social] Por la cual se reglamenta el artículo 126 del Decreto 019 de 2012 y se dictan otras disposiciones.  22 de julio de 2013',
+        'Resolución 2674 de 2013. [Ministerio de Salud y Protección Social] .Por la cual se reglamenta el artículo 126 del Decreto 019 de 2012 y se dictan otras disposiciones. Julio 22 de 2013.',
     },
   ],
   creditos: {

@@ -25,8 +25,8 @@
     .row.justify-content-around.align-items-center.mt-3
       figure
         .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-        figcaption Video: Leyenda del video
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/t-zXRyFrhMI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        figcaption Video: Los inventarios para el impulso comercial
     
 </template>
 

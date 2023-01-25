@@ -237,7 +237,8 @@
     .row.justify-content-around.align-items-center.mt-5
       figure
         .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/X1vIh6YzydA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        figcaption Video: Funciones de la comunicación en las empresas
 
 
 </template>

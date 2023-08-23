@@ -83,7 +83,7 @@
 
     .row.justify-content-around.align-items-center.mt-5
       .col-lg-10
-        p <b>Video: Sistema de gestión de inventarios y su correlación con el almacenamiento y el orden a partir de la codificación</b>
+        p <b>Video: Almacenamiento e inventarios: responsables del orden en las grandes empresas</b>
 
     .row.justify-content-around.align-items-center.mt-3
       figure

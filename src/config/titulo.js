@@ -1,1 +1,1 @@
-module.exports = 'Impulso multicanal de productos alimenticios'
+module.exports = 'Operación de inventarios'

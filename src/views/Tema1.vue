@@ -218,7 +218,7 @@
           .col
             .row.justify-content-between.align-items-center
               .col.mb-3.mb-sm-0
-                h3.mb-1 Gestión de inventarios
+                h3.mb-1 Operación de inventarios
               .col-sm-auto
                 a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo-La-gestion-de-inventarios.pdf')" target="_blank")
                   span Descargar

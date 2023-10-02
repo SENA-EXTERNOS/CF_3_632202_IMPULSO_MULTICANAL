@@ -20,7 +20,7 @@
     .row.justify-content-around.align-items-center
       .col-lg-7
         p Los procesos de inventario se deben soportar en herramientas ofimáticas para facilitar su gestión, control, y, por ende, la verificación de las existencias.
-        p.mt-3 En empresas <em>pymes,</em> donde los recursos son limitados, se puede utilizar una hoja electrónica, a efectos de llevar el registro de existencias, por tanto, se puede registrar la información de los hallazgos de los conteos físicos, y contrastarlos resultados de los registros en el sistema de Kardex.
+        p.mt-3 En empresas <em>pymes,</em> donde los recursos son limitados, se puede utilizar una hoja electrónica, a efectos de llevar el registro de existencias, por tanto, se puede registrar la información de los hallazgos de los conteos físicos, y contrastarlos con los resultados de los registros en el sistema de Kardex.
       .col-lg-5
         figure
           img(src='@/assets/curso/temas/tema4/img_2_tema4.svg', alt='Texto que describa la imagen')  

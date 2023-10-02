@@ -32,7 +32,7 @@
 
           p(numero="3" titulo="Programar en jornadas de bajo tráfico de clientes") Los conteos de productos se deben organizar en momentos que no haya flujo de clientes o proveedores, por lo cual se sugiere realizarlos en jornadas de cierre, o en horas donde no existan altos movimientos de los recursos.
 
-          p(numero="4" titulo="Suspender actividades de entradas y salidas") La realización de conteos debe suspender la entradas y salidas de existencias por parte de proveedores y distribuidores. Esto implica una programación e informarles a éstos o a grandes clientes.
+          p(numero="4" titulo="Suspender actividades de entradas y salidas") La realización de conteos debe suspender las entradas y salidas de existencias por parte de proveedores y distribuidores. Esto implica una programación e informarles a éstos o a grandes clientes.
 
           p(numero="5" titulo="Preparar los recursos para el conteo") El ejercicio de conteo debe ser el mínimo posible, ya que es una actividad extenuante, y por tanto debe hacerse con los recursos pertinentes para su desarrollo, como listados, de dispositivos electrónicos, computadores, y demás aspectos que se consideren necesarios para el desarrollo de las actividades y evitar problemas de última hora.
 

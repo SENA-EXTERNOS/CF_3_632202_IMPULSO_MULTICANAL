@@ -39,7 +39,7 @@
         figure 
           img(src='@/assets/curso/temas/tema5/img_4_tema5.svg', alt='Texto que describa la imagen').imagen-decorativa-2
         figure 
-          img(src='@/assets/curso/temas/tema5/img_5_tema5.png', alt='Texto que describa la imagen').imagen-decorativa-3
+          img(src='@/assets/curso/temas/tema5/img_5_tema5.svg', alt='Texto que describa la imagen').imagen-decorativa-3
         figure 
           img(src='@/assets/curso/temas/tema5/img_6_tema5.svg', alt='Texto que describa la imagen').imagen-decorativa-4
         figure 
@@ -58,13 +58,13 @@
             .col-12
               p.mb-0 Refiere a si las cantidades de productos encontradas son idénticas a las registradas en el sistema.  Si falta, indicará la diferencia; si sobra, indicará el excedente; y, si corresponde, se reportará en estado <em>‘ok’</em>. Este estado de existencias implica un resultado de costos igualmente.
             .col-lg-12.mt-3
-              span <em>Ejemplo de tabla de verificación de existencias contra el Kardex</em> 
+              span <em>Ejemplo de tabla de verificación de existencias contra el kárdex</em> 
             .col-lg-12.mt-3
               img(src='@/assets/curso/temas/tema5/img_15_tema5.png', alt='Texto que describa la imagen')
                                        
           .row(titulo="Informe de máximos y mínimos")
             .col-12
-              p.mb-0 En este tipo de informe se analiza si las existencias físicas son superiores al nivel máximo del inventario, lo que se obtiene del sistema de gestión o de la misma tarjeta Kardex, o si están en el valor esperado, que es dentro del máximo y mínimo.
+              p.mb-0 En este tipo de informe se analiza si las existencias físicas son superiores al nivel máximo del inventario, lo que se obtiene del sistema de gestión o de la misma tarjeta kárdex, o si están en el valor esperado, que es dentro del máximo y mínimo.
             .col-lg-12.mt-3                 
               span <em>Esquema del estado de máximos y mínimos de los recursos objeto de análisis de inventario</em>
             .col-lg-12.mt-3

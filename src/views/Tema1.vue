@@ -71,7 +71,7 @@
           p Esta clasificación busca identificar las movilidades que tienen los recursos en un periodo determinado de tiempo, así se puede establecer su rotación, el valor de las inversiones en dichos recursos y la pertinencia de su continuidad en el portafolio o reservas de productos de la empresa.
 
         .tarjeta.color-acento-botones.p-3(x="74%" y="35%" numero="+")
-          .h5.mb-2 Inventarios según la logística.
+          .h5.mb-2 Inventarios según la logística
           p Se determina por los niveles de recursos a tener en la empresa, los cuales dependen de la disponibilidad de espacios de almacenamiento, tiempo de entrega de los proveedores, procedencia, pues si hay que importarlos, los tiempos serán mayores.
 
         .tarjeta.color-acento-botones.p-3(x="63%" y="88%" numero="+")
@@ -98,7 +98,7 @@
           .col
             .row.justify-content-between.align-items-center
               .col.mb-3.mb-sm-0
-                h3.mb-1 Clasificación de Inventarios
+                h3.mb-1 Clasificación de inventarios
               .col-sm-auto
                 a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo-Clasificacion-de-inventarios.pdf')" target="_blank")
                   span Descargar

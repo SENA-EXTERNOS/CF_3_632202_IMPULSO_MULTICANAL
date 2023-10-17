@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="259.266" height="74.809" viewBox="0 0 259.266 74.809">
+  <g id="Grupo_166224" data-name="Grupo 166224" transform="translate(-1009.092 -870.071)">
+    <rect id="Rectángulo_45947" data-name="Rectángulo 45947" width="253.234" height="65.838" rx="9.723" transform="translate(1015.124 879.042)" fill="#dbdee5"/>
+    <g id="Grupo_166102" data-name="Grupo 166102" transform="translate(-0.066 -65.647)">
+      <g id="Grupo_166081" data-name="Grupo 166081" transform="translate(1009.158 935.719)">
+        <g id="Grupo_166078" data-name="Grupo 166078">
+          <rect id="Rectángulo_45955" data-name="Rectángulo 45955" width="254.965" height="70.184" rx="9.723" fill="#f57c22"/>
+        </g>
+      </g>
+      <text id="Existencias_por_producto" data-name="Existencias por producto" transform="translate(1042.992 975.328)" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Existencias por producto</tspan></text>
+    </g>
+  </g>
+</svg>
